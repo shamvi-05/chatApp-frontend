@@ -32,7 +32,8 @@
 
 
 ## User Interface
-<img width="1437" alt="pic" src="https://github.com/shamvi-05/chatApp-frontend/assets/78691639/f97d0f7e-5731-478b-94c4-a5c7015ddb41">
+<img width="1437" alt="pic" src="https://github.com/shamvi-05/chatApp-frontend/assets/78691639/660179c6-8c06-447e-a1ab-b8c2906b29a4">
+
 
 
 
