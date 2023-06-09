@@ -30,11 +30,19 @@
 </div>
 
 
-
-## User Interface
-<img width="1437" alt="pic" src="https://github.com/shamvi-05/chatApp-frontend/assets/78691639/660179c6-8c06-447e-a1ab-b8c2906b29a4">
+ ## User Interface 
 
 
+<details>
+  <summary> Video </summary>
+ 
+https://github.com/shamvi-05/chatApp-frontend/assets/78691639/3a0768ed-fcd0-460a-8959-bd00a0ed473a
+  </details>
+<details>
+<summary> Screenshot </summary>
+  <img width="1437" alt="pic" src="https://github.com/shamvi-05/chatApp-frontend/assets/78691639/660179c6-8c06-447e-a1ab-b8c2906b29a4">
+
+</details>
 
 
 ## Getting started
